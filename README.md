@@ -90,7 +90,7 @@
 ## 文章和博客
  
 - [元节入门](https://www.matthewball.vc/the-metaverse-primer) - Matthew Ball 的 9 部分系列
-- [马修·鲍尔——媒体的未来：电影、元界等](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and -more?tab=shownotes) - Metaverse 的投资者实地指南
+- [马修·鲍尔——媒体的未来：电影、元界等](https://www.joincolossus.com/episodes/69430337/ball-the-future-of-media-movies-the-metaverse-and-more?tab=shownotes) - Metaverse 的投资者实地指南
 - [Matthew Ball 的 Metaverse](https://www.matthewball.vc/all/themetaverse) - 它是什么，在哪里可以找到它，谁来建造它，以及 Fortnite
 - [Metaverse 入门](https://venturebeat.com/2017/04/09/a-primer-on-the-metaverse-the-next-iteration-of-the-internet/) - Venturebeat 上的文章互联网的下一次迭代
 - [Metaverse 的零件列表](https://www.highfidelity.com/blog/parts-list-for-the-metaverse) - Philip Rosedale 的列表
@@ -100,7 +100,7 @@
 - [元界实验室](https://hackaday.io/project/5077/logs) - VR/AR、神经网络和3D互联网实验
 - [PUDDLES to OASIS](https://www.wired.com/story/ready-player-one-vr-metaverse/) - 关于连接不同虚拟世界的有线文章
 - [多元宇宙，而不是元宇宙](https://techcrunch.com/2020/02/25/virtual-worlds-intro/) - Techcrunch 关于多元宇宙的 5 部分系列
-- [Minecraft 中的图书馆和我们在 Metaverse 中的未来](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future- in-the-metaverse.html) - 未经审查的图书馆
+- [Minecraft 中的图书馆和我们在 Metaverse 中的未来](https://www.domusweb.it/en/news/gallery/2020/03/16/the-library-inside-minecraft-and-our-future-in-the-metaverse.html) - 未经审查的图书馆
 - [Roblox 相信用户生成的内容将为我们带来元界](https://venturebeat.com/2020/05/02/roblox-believes-user-generated-content-will-bring-us-the-metaverse/) - Roblox 希望玩家构建元宇宙
 - [Balaji Srinivasan 关于建立“假名经济”](https://blog.blockstack.org/balaji-srinivasan-on-building-a-pseudonymous-economy/) - 假名已经成为虚拟世界的常态
 - [元界是什么，我需要关心吗？](https://www.theverge.com/22701104/metaverse-explained-fortnite-roblox-facebook-horizo​​n) - 边缘文章是一部分定义，一部分愿望，一部分炒作
