@@ -148,7 +148,7 @@
 
 ## 元节入门
 
-[]()
+> [元节入门](metaverse-primer/README.md)
 
 
 # 后期 ROAD-MAP
