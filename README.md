@@ -144,6 +144,13 @@
 - [元节阅读列表](https://gist.github.com/TrevorFSmith/411561c640bf060c9c18fe4d5ac5e455) - TrevorFSmith 的元节讨论主题
 - [xrdevlog.com](https://xrdevlog.com) - 元界互操作性项目和实验
 
+# 翻译文章
+
+## 元节入门
+
+[]()
+
+
 # 后期 ROAD-MAP
 
 - [ ] 整理相关的资源到当前仓库。
