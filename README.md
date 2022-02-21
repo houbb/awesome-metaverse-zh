@@ -4,6 +4,8 @@
 
 由于关于 Metaverse 是什么存在许多相互竞争的想法，请随时以拉取请求、问题和评论的形式留下反馈。 
 
+欢迎关注公众号【老马啸西风】，不定时更新。
+
 ## WebXR
 
 - [WebXR Explainer](https://github.com/immersive-web/webxr/blob/master/explainer.md) - 什么是 WebXR，有哪些用例？
