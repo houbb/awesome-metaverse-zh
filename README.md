@@ -66,7 +66,7 @@
 
 ## 基础设施
 
-[yomo](https://github.com/yomorun/yomo)-YoMo 是为边缘计算打造的低时延流式 Serverless 开发框架，基于 QUIC Transport 协议通讯，以 Functional Reactive Programming 为编程范式，简化构建可靠、安全的低时延计算应用的复杂度，挖掘5G潜力，释放实时计算价值。
+- [yomo](https://github.com/yomorun/yomo)-YoMo 是为边缘计算打造的低时延流式 Serverless 开发框架，基于 QUIC Transport 协议通讯，以 Functional Reactive Programming 为编程范式，简化构建可靠、安全的低时延计算应用的复杂度，挖掘5G潜力，释放实时计算价值。
 
 ## 书籍
 
